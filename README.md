@@ -1,5 +1,7 @@
 
-## clay.exe
+## :+1: clay.exe 
+
+
 
 
 
@@ -36,6 +38,13 @@ This article describes how to add a license key to your Vuforia Unity, Android, 
 - The My License window opens.
 - Click the license key to copy it to your clipboard.
 - In the Inspector window, paste the key into the App License Key field. 
+
+ 
+
+ 
+![alt text](https://library.vuforia.com/content/dam/vuforia-library/articles/unity-ui/vuforia-configuration-vuforia-inspector.PNG/_jcr_content/renditions/cq5dam.web.1280.1280.png "Logo Title Text 1")
+
+ 
 
 For production environments...
 
