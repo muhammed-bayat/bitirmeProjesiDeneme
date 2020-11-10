@@ -15,7 +15,7 @@ THE UNITY VUFORIA ADD-ON, WHICH IS THE FIRST STAGE FOR THE PROJECT, WAS INSTALLE
 
 
 
- As [Muhammed BAYAT](https://muhammed-bayat.github.io/site/) as [Ayşe Kartal](https://github.com/aysekartall)
+ As [Muhammed BAYAT](https://muhammed-bayat.github.io/site/) 
 
 
 
